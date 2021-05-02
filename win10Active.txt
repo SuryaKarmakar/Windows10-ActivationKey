@@ -12,7 +12,7 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ....................................................
 
 [+] CMD Commands :
-# slmgr /ipk win-key
+# slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 # slmgr /skms kms8.msguides.com
 # slmgr /ato
 # slmgr /xpr
